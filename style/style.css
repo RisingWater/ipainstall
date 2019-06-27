@@ -1,0 +1,101 @@
+html, body
+{
+    margin:0;
+    height:100%;
+}
+
+.full
+{
+    width: 100%;
+    height: 100%;
+}
+
+.header
+{
+    background-color: #ff8900;
+    height: 60px;
+    color: #ffffff;
+    text-align: center;
+    font-size: 24px;
+    font-family:"微软雅黑";
+    font-weight:bold;
+    line-height: 60px;
+}
+
+.pic_view
+{
+    width: 100%;
+    height: 50%;
+    background-image: url("../image/home_logo.png");
+    background-repeat: no-repeat;
+    background-position-y: center;
+    background-size:100%;
+}
+
+.text_view
+{
+    width: 100%;
+    height: 100px;
+    color: #000000;
+    text-align: center;
+    font-size: 32px;
+    font-family:"微软雅黑";
+    font-weight:bold;
+    line-height: 100px;
+}
+
+.down_view
+{
+    width: 100%;
+    height: 100px;
+    margin: 0px auto;
+    text-align: center;
+}
+
+.download
+{
+    display:inline-block;
+    width:40%;
+    height:50px;
+    color:#ffffff;
+    border-radius:10px;
+}
+
+.android_download
+{
+    background-color:#2dd700;
+    margin-right:5px;
+}
+
+.ios_download
+{
+    background-color:#3C9DD0;	
+    margin-left:5px;
+}
+
+.android_image
+{
+    background-image: url("../image/android.png");
+    background-repeat: no-repeat;
+    background-position-y: center;
+    margin-left:10px;
+}
+
+.ios_image
+{
+    background-image: url("../image/ios.png");
+    background-repeat: no-repeat;
+    background-position-y: center;
+    margin-left:10px;
+}
+
+.button_text
+{
+    font-size: 14px;
+    color:#ffffff;
+    line-height: 50px;
+    font-family:"微软雅黑";
+    text-align: center;
+    margin-left:10px;
+}
+

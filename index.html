@@ -1,14 +1,33 @@
 <!DOCTYPE HTML>
 <html>
     <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-        <title>Install</title>
+        <link href="style/style.css" rel="stylesheet" type="text/css" />
+        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+        <title>威讯云电脑</title>
     </head>
     <body>
-        <p align=center>
-          <font size="10">
-            <a style="color:#69DEDA" href="itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/RisingWater/ipainstall/master/manifest.plist">点击安装</a>
-          </font>
-        </p>
+        <div class="full">
+            <div class="header">升腾云电脑</div>
+            <div class="pic_view"></div>
+            <div style="height:30px"></div>
+            <div class="text_view">
+                因你所需&nbsp;&nbsp;&nbsp;无处不在
+            </div>
+            <div style="height:30px"></div>
+            <div class="down_view">
+                <div class="download android_download" onclick="javascript:location.href='https://github.com/RisingWater/ipainstall/raw/master/WeixunClient-Android-ARM_V65013_D20190529_v30188.apk' ">
+                    <div class="android_image">
+                        <div class="button_text">安卓客户端下载</div>
+                    </div>
+                </div>
+                <div class="download ios_download" onclick="javascript:location.href='itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/RisingWater/ipainstall/master/manifest.plist' ">
+                    <div class="ios_image">
+                        <div class="button_text">苹果客户端下载</div>
+                    </div>    
+                </div> 
+            </div>
+        </div>
     </body>
-</html>
+    </html>

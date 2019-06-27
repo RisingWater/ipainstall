@@ -12,14 +12,34 @@
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
-				<string></string>
+				<string>CF13040CF8927FF5E9558F58C0368139A7DEE611</string>
 				<key>dateExpires</key>
-				<string></string>
+				<string>2020/5/23</string>
 				<key>type</key>
-				<string>Unknown</string>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>ECY7UG34WK.com.centerm.weixunclient</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>ECY7UG34WK</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>ECY7UG34WK.com.centerm.weixunclient</string>
+				</array>
 			</dict>
 			<key>name</key>
 			<string>WeixunClient.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>bcf60351-2970-4f66-a719-a704605c247e</string>
+				<key>name</key>
+				<string>weiXunClient_dis</string>
+			</dict>
 			<key>team</key>
 			<dict>
 				<key>id</key>
