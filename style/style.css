@@ -99,3 +99,26 @@ html, body
     margin-left:10px;
 }
 
+.button_text a:link
+{
+    color:#ffffff;
+    text-decoration:none;
+}
+
+.button_text a:hover
+{
+    color:#ffffff;
+    text-decoration:underline;
+}
+
+.button_text a:active
+{
+    color:#ffffff;
+    text-decoration:underline;
+}
+
+.button_text a:visited
+{
+    color:#ffffff;
+    text-decoration:none;
+}
