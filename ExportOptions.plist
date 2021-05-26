@@ -9,11 +9,11 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://github.com/RisingWater/ipainstall/raw/master/WeixunClient.ipa</string>
+		<string>https://risingwater.github.io/ipainstall/WeixunClient.ipa</string>
 		<key>displayImageURL</key>
-		<string>https://github.com/RisingWater/ipainstall/raw/master/image57x57.png</string>
+		<string>https://risingwater.github.io/ipainstall/image57x57.png</string>
 		<key>fullSizeImageURL</key>
-		<string>https://github.com/RisingWater/ipainstall/raw/master/image512x512.png</string>
+		<string>https://risingwater.github.io/ipainstall/image512x512.png</string>
 	</dict>
 	<key>method</key>
 	<string>enterprise</string>
@@ -23,7 +23,7 @@
 		<string>weiXunClient_dis</string>
 	</dict>
 	<key>signingCertificate</key>
-	<string>iPhone Distribution</string>
+	<string>Apple Distribution</string>
 	<key>signingStyle</key>
 	<string>manual</string>
 	<key>stripSwiftSymbols</key>

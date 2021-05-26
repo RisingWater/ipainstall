@@ -12,9 +12,9 @@
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
-				<string>CF13040CF8927FF5E9558F58C0368139A7DEE611</string>
+				<string>154D1015E0561B06BC5159E17ECDE2783ABFED10</string>
 				<key>dateExpires</key>
-				<string>2020/5/23</string>
+				<string>2023/2/8</string>
 				<key>type</key>
 				<string>iOS Distribution</string>
 			</dict>
@@ -36,7 +36,7 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>bcf60351-2970-4f66-a719-a704605c247e</string>
+				<string>394aa661-dfb1-4cf1-869a-4f2af8375134</string>
 				<key>name</key>
 				<string>weiXunClient_dis</string>
 			</dict>
